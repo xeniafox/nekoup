@@ -1,0 +1,11 @@
+nekoup
+    by Xenia Tales <xenia@kernel32.xyz>
+    source code at https://github.com/xeniafox/nekoup
+
+USAGE
+
+  To upload a file, use the following command in an unix shell
+
+    $ curl -T your_file.txt {host}
+
+  wait a second or two, and then it should return your file's URL

@@ -1,0 +1,8 @@
+services:
+  nekoup:
+    build: .
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./data:/home/nekoup/data
+      - ./uploads:/home/nekoup/uploads

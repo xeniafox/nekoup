@@ -1,0 +1,3 @@
+[backend]
+host = "localhost:8888" # change this to your domain
+upload_dir = "uploads"

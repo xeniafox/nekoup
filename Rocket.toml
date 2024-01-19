@@ -1,0 +1,9 @@
+[default]
+address = "0.0.0.0"
+
+[debug]
+port = 3000
+
+[release]
+port = 8888
+ip_header = false
